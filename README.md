@@ -17,10 +17,11 @@ Social Network application is a Django restframework application. This project i
    ```sh
    git clone https://github.com/Jagadisg/social_network.git
 
-2. **Create virtual environment**
+2. **Create virtual environment and activate the venv**
    
    ```sh
    python -m venv venv
+   ./venv/Scripts/activate
 
 3. **Build and Run the Docker Containers**
 
