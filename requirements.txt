@@ -1,0 +1,5 @@
+Django
+djangorestframework
+loguru
+pillow
+drf-yasg
