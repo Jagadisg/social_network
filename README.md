@@ -24,7 +24,7 @@ Social Network application is a Django restframework application. This project i
 
 3. **Build and Run the Docker Containers**
 
-    ### Build the Docker images and run the containers using Docker Compose.
+     **Build the Docker images and run the containers using Docker Compose.**
 
     ```sh
     docker-compose build
@@ -32,7 +32,7 @@ Social Network application is a Django restframework application. This project i
 
 4. **Access the Application**
 
-    ### Once the containers are up and running, you can access the application in your web browser at:
+    **Once the containers are up and running, you can access the application in your web browser at:**
 
     ```sh
     http://localhost:8001
